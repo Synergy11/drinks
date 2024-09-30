@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'drinks',
     'rest_framework'
     
+    
 ]
 
 MIDDLEWARE = [
